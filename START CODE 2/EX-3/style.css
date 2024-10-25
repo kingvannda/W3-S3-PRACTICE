@@ -1,0 +1,22 @@
+/* TODO */
+
+button{
+    color: white;
+    background-color: pink;
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #d06ea9 ;
+    border-radius: 10px;
+
+}
+
+
+button:hover{
+    background-color: #b13882;
+    border-color: rgb(237, 13, 237);
+}
+
